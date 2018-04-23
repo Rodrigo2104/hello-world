@@ -1,2 +1,3 @@
 # hello-world
-obvious
+
+print('oi')
